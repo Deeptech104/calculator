@@ -38,4 +38,4 @@ This is a simple web-based calculator designed to perform basic arithmetic opera
 ## Setup and Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+(https://deeptech104.github.io/calculator/)
